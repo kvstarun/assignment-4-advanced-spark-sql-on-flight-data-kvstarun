@@ -1,0 +1,11 @@
+FlightNum,CarrierName,Origin,Destination,TimeDiscrepancy
+2147,Air France,DFW,MIA,150.0
+7040,Air France,LAX,BOS,149.0
+2396,Air France,MIA,LAX,149.0
+4002,Qantas,MIA,SEA,149.0
+1920,Delta Airlines,ATL,DEN,149.0
+7080,British Airways,SFO,ATL,149.0
+3255,Lufthansa,JFK,MIA,148.0
+6980,Delta Airlines,SFO,ORD,147.0
+5791,Qantas,DEN,BOS,147.0
+9586,Southwest Airlines,SFO,ATL,146.0
